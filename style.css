@@ -1,0 +1,14 @@
+body {
+	background: #1a355e;
+}
+
+.line {
+	background: #ff7b00;
+	color: white;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
